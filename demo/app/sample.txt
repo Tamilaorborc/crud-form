@@ -1,5 +1,5 @@
 
 {
-    sample page to chech how gitpush works
+    sample page to chech how gitpush works in vs code
 
 }
